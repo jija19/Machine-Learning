@@ -13,7 +13,8 @@ Regression is a supervised machine learning technique which is used to predict c
 
 ### <B>linear Regression</B>
 Linear regression is a linear model, e.g. a model that assumes a linear relationship between the rainfall(x) and amount of umbrella sold(y)
-![]
+
+![](https://github.com/jija19/Machine-Learning/blob/main/linear%20reg.png)
 
 # <B>Classification</B>
 
