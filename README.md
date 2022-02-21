@@ -12,7 +12,8 @@ Supervised learning can be separated into two types of problems when data mining
 Regression is a supervised machine learning technique which is used to predict continuous values.
 
 ### <B>linear Regression</B>
-Linear regression is a linear model, e.g. a model that assumes a linear relationship between the input variables (x) and the single output variable (y)
+Linear regression is a linear model, e.g. a model that assumes a linear relationship between the rainfall(x) and amount of umbrella sold(y)
+![]
 
 # <B>Classification</B>
 
