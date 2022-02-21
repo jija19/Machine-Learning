@@ -19,3 +19,6 @@ Linear regression is a linear model, e.g. a model that assumes a linear relation
 # <B>Classification</B>
 
 The Classification algorithm is a Supervised Learning technique that is used to identify the category of new observations on the basis of training data.
+
+
+ex. Here, we have data points belonging to three different fruits like blueberry, lime, and apple. We can classify them by using machine learning classification techniques. The three fruits are represented by three various related colors such as blue, orange, and yellow respectively. Then, we draw a linear line between them for clear separation and see how they are presented.
