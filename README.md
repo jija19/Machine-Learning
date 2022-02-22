@@ -21,7 +21,7 @@ Linear regression is a linear model, e.g.1 a model that assumes a linear relatio
 
 example-2 linearity between salary and year of education
 
-
+![image](https://user-images.githubusercontent.com/100012819/155181971-db30514e-cb0d-4f09-8d58-321b6ec3e910.png)
 
 # <B>Classification</B>
 
