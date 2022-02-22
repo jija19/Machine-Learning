@@ -17,8 +17,8 @@ Linear regression is a linear model, e.g.1 a model that assumes a linear relatio
 ![](https://github.com/jija19/Machine-Learning/blob/main/linear%20reg.png)
 
 example-2 linearity between salary and year of education
-[linear reg.xlsx](https://github.com/jija19/Machine-Learning/files/8118085/linear.reg.xlsx)
 
+![image](https://user-images.githubusercontent.com/100012819/155170130-52b437dc-46a0-430e-9807-c3abedde453f.png)
 
 # <B>Classification</B>
 
