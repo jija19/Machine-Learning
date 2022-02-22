@@ -35,6 +35,8 @@ example. Here, we have data points belonging to three different fruits like blue
 
 Unsupervised learning is a type of machine learning in which models are trained using unlabeled dataset and are allowed to act on that data without any supervision.
 
+### Clustering
 
+“Clustering” is the process of grouping similar entities together. The goal of this unsupervised machine learning technique is to find similarities in the data point and group similar data points together.
 
-
+![image](
