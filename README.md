@@ -1,7 +1,5 @@
 # <U>Machine-Learning</U>
 machine learning allows the user to feed a computer algorithm an immense amount of data and have the computer analyze and make data-driven recommendations and decisions based on only the input data.
-### TYPES OF MACHINE LEARNING
-
 
 ![](https://github.com/jija19/Machine-Learning/blob/main/ml.png)
 
@@ -23,7 +21,7 @@ Linear regression is a linear model, e.g.1 a model that assumes a linear relatio
 
 example-2 linearity between salary and year of education
 
-![image](https://user-images.githubusercontent.com/100012819/155170130-52b437dc-46a0-430e-9807-c3abedde453f.png)
+
 
 # <B>Classification</B>
 
