@@ -31,7 +31,10 @@ The Classification algorithm is a Supervised Learning technique that is used to 
 
 example. Here, we have data points belonging to three different fruits like blueberry, lime, and apple. We can classify them by using machine learning classification techniques. The three fruits are represented by three various related colors such as blue, orange, and yellow respectively. Then, we draw a linear line between them for clear separation and see how they are presented.
 
-# UNSUPERVISED LEARNING
+# Unsupervised Learning
+
+Unsupervised learning is a type of machine learning in which models are trained using unlabeled dataset and are allowed to act on that data without any supervision.
+
 
 
 
