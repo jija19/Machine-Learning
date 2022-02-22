@@ -1,5 +1,6 @@
 # <U>Machine-Learning</U>
 machine learning allows the user to feed a computer algorithm an immense amount of data and have the computer analyze and make data-driven recommendations and decisions based on only the input data.
+
 ![](https://github.com/jija19/Machine-Learning/blob/main/ml.png)
 
 ![image](https://user-images.githubusercontent.com/100012819/155176483-82950aa1-417b-4ba8-98c3-bdb6f8e30b02.png)
