@@ -39,4 +39,4 @@ Unsupervised learning is a type of machine learning in which models are trained 
 
 “Clustering” is the process of grouping similar entities together. The goal of this unsupervised machine learning technique is to find similarities in the data point and group similar data points together.
 
-![image](
+![image](https://github.com/jija19/Machine-Learning/blob/main/Unsupervised-Learning-in-ML.jpg)
