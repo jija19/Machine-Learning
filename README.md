@@ -23,3 +23,4 @@ The Classification algorithm is a Supervised Learning technique that is used to 
 ![](https://github.com/jija19/Machine-Learning/blob/main/Classification%20reg.jpeg)
 
 example. Here, we have data points belonging to three different fruits like blueberry, lime, and apple. We can classify them by using machine learning classification techniques. The three fruits are represented by three various related colors such as blue, orange, and yellow respectively. Then, we draw a linear line between them for clear separation and see how they are presented.
+[linear reg.xlsx](https://github.com/jija19/Machine-Learning/files/8118085/linear.reg.xlsx)
