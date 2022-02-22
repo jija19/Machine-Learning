@@ -1,5 +1,7 @@
 # <U>Machine-Learning</U>
 machine learning allows the user to feed a computer algorithm an immense amount of data and have the computer analyze and make data-driven recommendations and decisions based on only the input data.
+### TYPES OF MACHINE LEARNING
+
 
 ![](https://github.com/jija19/Machine-Learning/blob/main/ml.png)
 
